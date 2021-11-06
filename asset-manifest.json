@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/imanraffee/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/imanraffee/static/js/main.7af19a80.chunk.js",
+    "main.js.map": "/imanraffee/static/js/main.7af19a80.chunk.js.map",
+    "runtime-main.js": "/imanraffee/static/js/runtime-main.bc755654.js",
+    "runtime-main.js.map": "/imanraffee/static/js/runtime-main.bc755654.js.map",
+    "static/js/2.662d626b.chunk.js": "/imanraffee/static/js/2.662d626b.chunk.js",
+    "static/js/2.662d626b.chunk.js.map": "/imanraffee/static/js/2.662d626b.chunk.js.map",
+    "static/js/3.4421d6c2.chunk.js": "/imanraffee/static/js/3.4421d6c2.chunk.js",
+    "static/js/3.4421d6c2.chunk.js.map": "/imanraffee/static/js/3.4421d6c2.chunk.js.map",
+    "index.html": "/imanraffee/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/imanraffee/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.662d626b.chunk.js.LICENSE.txt": "/imanraffee/static/js/2.662d626b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/imanraffee/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bc755654.js",
+    "static/js/2.662d626b.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.7af19a80.chunk.js"
+  ]
+}
